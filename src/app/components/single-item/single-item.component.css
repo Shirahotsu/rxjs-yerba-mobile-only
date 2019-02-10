@@ -1,0 +1,36 @@
+section{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.imageView{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+}
+img{
+  width: 100%;
+  height: auto;
+}
+.ratingView{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding-left: 20px;
+  width: 50%;
+  /* color: #679037; */
+  font-variant: small-caps;
+  font-size: 1.1em;
+}
+.ratingView div{
+  padding-top: 10px;
+}
+.score{
+  padding-bottom: 10px;
+}
+.description{
+  padding-top: 30px;
+}

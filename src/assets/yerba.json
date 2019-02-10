@@ -1,0 +1,317 @@
+[
+  {
+    "id":0,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF1.png",
+    "rating":[
+      {
+        "taste":4,
+        "aroma":4,
+        "price":4
+      }
+    ]
+  },
+  {
+    "id":1,
+    "name":"VERDE MATE GREEN CHIMARRAO",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"klasyczna",
+    "image":"../../../assets/yerba/yerbaK2.png",
+    "rating":[
+      {
+        "taste":4,
+        "aroma":5,
+        "price":1
+      }
+    ]
+  },
+  {
+    "id":12,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"pobudzająca",
+    "image":"../../../assets/yerba/yerbaE3.png",
+    "rating":[
+      {
+        "taste":3,
+        "aroma":0,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name":"GUARANI DESPALADA SIN PALO",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"klasyczna",
+    "image":"../../../assets/yerba/yerbaK4.png",
+    "rating":[
+      {
+        "taste":3,
+        "aroma":4,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":4,
+    "name":"GUARANI ELABORADA CON PALO TRADICIONAL",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"klasyczna",
+    "image":"../../../assets/yerba/yerbaK5.png",
+    "rating":[
+      {
+        "taste":1,
+        "aroma":2,
+        "price":3
+      }
+    ]
+  },
+  {
+    "id":5,
+    "name":"KRAUS PURE LEAF",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"klasyczna",
+    "image":"../../../assets/yerba/yerbaK6.png",
+    "rating":[
+      {
+        "taste":5,
+        "aroma":4,
+        "price":1
+      }
+    ]
+  },
+  {
+    "id":6,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"pobudzająca",
+    "image":"../../../assets/yerba/yerbaE1.png",
+    "rating":[
+      {
+        "taste":5,
+        "aroma":5,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":7,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"pobudzająca",
+    "image":"../../../assets/yerba/yerbaE2.png",
+    "rating":[
+      {
+        "taste":2,
+        "aroma":4,
+        "price":1
+      }
+    ]
+  },
+  {
+    "id":8,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"odchudzająca",
+    "image":"../../../assets/yerba/yerbaO1.png",
+    "rating":[
+      {
+        "taste":1,
+        "aroma":1,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":9,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"odchudzająca",
+    "image":"../../../assets/yerba/yerbaO2.png",
+    "rating":[
+      {
+        "taste":2,
+        "aroma":3,
+        "price":4
+      }
+    ]
+  },
+  {
+    "id":10,
+    "name":"VERDE MATE GREEN ORGANICA",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"klasyczna",
+    "image":"../../../assets/yerba/yerbaK1.png",
+    "rating":[
+      {
+        "taste":2,
+        "aroma":3,
+        "price":1
+      }
+    ]
+  },
+  {
+    "id":11,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF2.png",
+    "rating":[
+      {
+        "taste":0,
+        "aroma":0,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":12,
+    "name":"SAN REMO ELABORADA CON PALO TRADICIONAL",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"klasyczna",
+    "image":"../../../assets/yerba/yerbaK3.jpg",
+    "rating":[
+      {
+        "taste":2,
+        "aroma":2,
+        "price":2
+      }
+    ]
+  },
+  {
+    "id":13,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF3.png",
+    "rating":[
+      {
+        "taste":5,
+        "aroma":0,
+        "price":2
+      }
+    ]
+  },
+  {
+    "id":14,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"odchudzająca",
+    "image":"../../../assets/yerba/yerbaO3.png",
+    "rating":[
+      {
+        "taste":3,
+        "aroma":1,
+        "price":4
+      }
+    ]
+  },
+  {
+    "id":15,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF4.png",
+    "rating":[
+      {
+        "taste":5,
+        "aroma":1,
+        "price":2
+      }
+    ]
+  },
+  {
+    "id":16,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF5.png",
+    "rating":[
+      {
+        "taste":0,
+        "aroma":4,
+        "price":2
+      }
+    ]
+  },
+  {
+    "id":17,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"pobudzająca",
+    "image":"../../../assets/yerba/yerbaE4.png",
+    "rating":[
+      {
+        "taste":4,
+        "aroma":2,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":18,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"odchudzająca",
+    "image":"../../../assets/yerba/yerbaO4.png",
+    "rating":[
+      {
+        "taste":3,
+        "aroma":2,
+        "price":5
+      }
+    ]
+  },
+  {
+    "id":19,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF6.png",
+    "rating":[
+      {
+        "taste":0,
+        "aroma":0,
+        "price":0
+      }
+    ]
+  },
+  {
+    "id":20,
+    "name":"Yerba Mate",
+    "description":"Verde Mate Organica jest pierwszą i jak narazie jedyną organiczną yerba mate wśród produktów z rodziny Verde Mate Green. Produkowana jest wedle ściśle określonych zasad rolnictwa ekologicznego. Pochodzi z uprawy wspierającej idee zrównoważonego rozwoju. Jej skład, metoda obróbki i jakość podlegają kontroli zewnętrznych organów certyfikujących - jakiekolwiek uchybienia są zwyczajnie niemożliwe. Kupując ten produkt, mamy gwarancję, że powstał on w atmosferze odpowiedzialności i troski o drugiego człowieka i ekosystem. W Verde Mate Organica mamy do czynienia z pozbawionym dymu, zielonym suszem typu despalada. Yerba nie zawiera patyczków ani jakichkolwiek dodatków smakowych. Organica gwarantuje solidny efekt pobudzenia na wysokim poziomie i może być wielokrotnie zalewana. ",
+
+    "category":"owocowa",
+    "image":"../../../assets/yerba/yerbaF7.jpg",
+    "rating":[
+      {
+        "taste":2,
+        "aroma":2,
+        "price":5
+      }
+    ]
+  }
+]

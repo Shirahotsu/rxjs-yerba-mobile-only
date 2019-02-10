@@ -1,0 +1,6 @@
+<section >
+  <div (click)="goTo(item.id)" class="item" *ngFor="let item of yerba$ | async">
+    <img src="{{item.image}}" alt="">
+    <h5>{{item.name}}</h5>
+  </div>
+</section>
