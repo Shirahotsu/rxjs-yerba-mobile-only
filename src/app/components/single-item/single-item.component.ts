@@ -12,11 +12,13 @@ import { CanGoBackService } from 'src/app/services/can-go-back.service';
 export class SingleItemComponent implements OnInit {
   yerba$:any = new Observable;
   private sub: any;
+  name:string = 'item';
   constructor(
     private items:GetItemsService,
     private route: ActivatedRoute,
     private goBack: CanGoBackService
   ) {
+    window.scroll(0,0);
     this.sub = this.route.params.subscribe(
       params => {
         const id:number = params['id'];

@@ -5,7 +5,8 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  position: relative;
+  position: fixed;
+  z-index: 999;
 }
 svg{
   fill: #fff;

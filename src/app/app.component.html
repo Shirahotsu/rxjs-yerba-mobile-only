@@ -1,4 +1,4 @@
 <app-navbar></app-navbar>
-<main>
-  <router-outlet></router-outlet>
+<main [@routeAnimations]="prepareRoute(outlet)">
+  <router-outlet class='slider' #outlet="outlet"></router-outlet>
 </main>

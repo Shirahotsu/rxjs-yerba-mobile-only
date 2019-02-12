@@ -11,11 +11,13 @@ import { ActivatedRoute, Router } from '@angular/router';
 export class ItemsComponent implements OnInit {
   yerba$:any = new Observable;
   private sub: any;
+  name:string = 'category';
   constructor(
     private items:GetItemsService,
     private route: ActivatedRoute,
     private router: Router
     ) {
+      window.scroll(0,0);
     this.sub = this.route.params.subscribe(
       params => {
         const cat:string = params['cat'];

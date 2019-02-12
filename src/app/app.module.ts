@@ -12,8 +12,8 @@ import { RatingComponent } from './components/rating/rating.component';
 import { GoBackComponent } from './components/go-back/go-back.component';
 
 const appRoutes: Routes =[
-  { path: 'kategoria/:cat',      component: ItemsComponent},
-  { path: 'yerba/:id',      component: SingleItemComponent},
+  { path: 'kategoria/:cat',      component: ItemsComponent, data:{ animation: 'category' }},
+  { path: 'yerba/:id',      component: SingleItemComponent, data:{ animation: 'isRight' }},
   { path: '',
     redirectTo: 'kategoria/wszystko',
     pathMatch: 'full',
